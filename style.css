@@ -1,0 +1,16 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    line-height:3 ;
+    text-align: center;
+    background-color: grey;
+    bottom: 0;
+    width:100%;
+}
+
+.test_image_and_result{
+    border-style: double;
+border-radius: 15px;
+border-width: 10px;
+border-color: cadetblue;
+}
